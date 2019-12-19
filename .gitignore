@@ -1,0 +1,26 @@
+venvLeo/
+.idea/
+.idea/*
+app/__pycache__/*
+app/__pycache__/
+**/.idea/
+venv/
+env/
+wsgi.py
+techcampquizapi.sock
+quiz.ini
+__pycache__/*
+/__pycache__/
+
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System Files
+.DS_Store
+Thumbs.db
